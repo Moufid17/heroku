@@ -1,1 +1,1 @@
-var_dump(php_info());
+var_dump(1)
